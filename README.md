@@ -1,5 +1,7 @@
 # Business-Dashboard
 
+⭐ Beatiful admin dashboard using REACT
+
 Website is built using 
  * HTML 
  * SCSS
@@ -16,6 +18,18 @@ Website is built using
 * React Single Item Page Design
 * React Form Page Design
 * React Dark Mode with Context API
+
+
+💠 Home Page with different widgets
+
+💠 Progress Bar Component and Interactive Chart
+
+💠 Custom Table
+
+💠 List table (where we can select items, sort them or filter them)
+    We can delete an item or display a single item.
+    
+💠 Add dark mode option
 
 
 # Getting Started with Create React App
