@@ -1,3 +1,23 @@
+# Business-Dashboard
+
+Website is built using 
+ * HTML 
+ * SCSS
+ * JAVASCRIPT
+ * REACT
+ 
+ Learnt :
+* React Sidebar Design (Menu Bar)
+* React Navbar Design Tutorial
+* React Reusable Widget Components
+* React Progress Bar Component
+* React Chart 
+* React MUI Datatable 
+* React Single Item Page Design
+* React Form Page Design
+* React Dark Mode with Context API
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
